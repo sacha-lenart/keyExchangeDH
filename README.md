@@ -4,4 +4,10 @@ Echange de clefs basé sur l'algorithme Diffie-Hellman. Application réalisée l
 
 # Comment exécuter
 
-Récupérer l'exécutable binaire "keyExchange" et exécutez-le en cliquant dessus ou en le lançcant via un terminal (commande : "./keyExchange"). 
+Récupérez l'exécutable binaire "keyExchange". Modifiez les droits du fichier, par exemple avec la commande suivante : 
+
+> chmod 777 keyExchange
+
+Lancer l'application :
+
+> ./keyExchange
